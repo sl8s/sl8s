@@ -1,5 +1,6 @@
 ## About Me
 - Github: [sl8s](https://github.com/sl8s)
+- Github (Old account): [antonpichka](https://github.com/antonpichka)
 - Discord: sl8sqw
 - Location: Ukraine
 ## Skills

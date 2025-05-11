@@ -5,4 +5,4 @@
 ## Skills
 - Dart, Kotlin, Swift, TS
 - Flutter, Jetpack Compose, NodeJS
-- OOP, SOLID, Design Patterns, MVVM, UI/UX, CI/CD, Git, Github Copilot, Figma, Postman, Docker, OAuth 2.0, REST API, Debugger, Unit Testing, SQL, NoSQL, JSON, XML
+- OOP, SOLID, Design Patterns, MVVM, UI/UX, CI/CD, Git, Github Copilot, Figma, Postman, Docker, OAuth 2.0, JWT, REST API, Debugger, Unit Testing, SQL, NoSQL, JSON, XML

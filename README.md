@@ -2,6 +2,7 @@
 - Github: [sl8s](https://github.com/sl8s)
 - Github (Old account): [antonpichka](https://github.com/antonpichka)
 - Discord: sl8sqw
+- Telegram: [sl8sqw](https://t.me/sl8sqw)
 - Location: Ukraine
 ## Skills
 - Dart, Kotlin, Swift, TS

@@ -1,3 +1,5 @@
+## Note
+- A test assignment is required. If there is no test assignment for admission to your company, then do not write to me !!!
 ## About Me
 - Github: [sl8s](https://github.com/sl8s)
 - Github (Old account): [antonpichka](https://github.com/antonpichka)

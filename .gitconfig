@@ -1,6 +1,4 @@
 [user]
-	name = {your_name}
-	email = {your_email}
 	signingkey = {your_signing_key}
 [core]
 	autocrlf = true

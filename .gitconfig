@@ -1,5 +1,6 @@
 [user]
 	signingkey = {your_signing_key}
+	email = {your_email}
 [core]
 	autocrlf = true
 	longpaths = true
